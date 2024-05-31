@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'TT_Chocolates';
+	src: local('TT_Chocolates'),
+		 url('../assets/fonts/tt_chocolates/TT Chocolates Trial Regular.otf') format('truetype'), /* Super Modern Browsers */
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'TT_Chocolates' !important;
+    background: #0a0710;
+    user-select: none;
+}

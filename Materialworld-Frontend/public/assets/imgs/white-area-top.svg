@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="320px" viewBox="0 0 1440 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>White area - Top</title>
+    <defs>
+        <linearGradient x1="10.8261487%" y1="48.2844694%" x2="84.646732%" y2="51.1746108%" id="linearGradient-1">
+            <stop stop-color="#4C66FF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#0C0A1D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0C0A1D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#0C0A1D" offset="0%"></stop>
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="25.8445946%"></stop>
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="73.1630068%"></stop>
+            <stop stop-color="#0C0A1D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,254.667872 C209.846523,140.046804 465.5,125.600707 810.5,115.567514 C1155.5,105.534322 1383.6455,128.982598 1440,0 L1440,319.215686 L0,319.215686 L0,254.667872 Z" id="path-4"></path>
+        <linearGradient x1="84.1716558%" y1="51.0560206%" x2="10.5739477%" y2="48.4238364%" id="linearGradient-5">
+            <stop stop-color="#6F4CFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#0C0A1D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0C0A1D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#0C0A1D" offset="0%"></stop>
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="25.8445946%"></stop>
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="73.1630068%"></stop>
+            <stop stop-color="#0C0A1D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,289.556316 C1049.68272,229.617372 1217,146.493645 1440,14.9019608 L1440,320 L0,320 L0,289.556316 Z" id="path-8"></path>
+        <linearGradient x1="0%" y1="49.378852%" x2="101.999998%" y2="50.633571%" id="linearGradient-9">
+            <stop stop-color="#AAEAFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#6DB7D7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0C0A1D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-11">
+            <stop stop-color="#0C0A1D" offset="0%"></stop>
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="25.8445946%"></stop>
+            <stop stop-color="#0C0A1D" stop-opacity="0" offset="73.1630068%"></stop>
+            <stop stop-color="#0C0A1D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,159.5 C577,281.207989 1055,293.411846 1440,281.5 L1440,320 L0,319.482094 L0,159.5 Z" id="path-12"></path>
+        <linearGradient x1="68.5356721%" y1="93.5959214%" x2="68.5356721%" y2="1.30433505%" id="linearGradient-13">
+            <stop stop-color="#293462" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#9B24A3" stop-opacity="0.16" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,314.344243 C53.500116,314.552637 590.020532,304.396831 883.498793,286.220811 C1176.97705,268.044791 1360.99983,314.448058 1440,314.576043 L1440,320 L0,320 L0,314.344243 Z" id="path-14"></path>
+    </defs>
+    <g id="Marketing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landingpage" transform="translate(0.000000, -5300.000000)">
+            <g id="White-area---Top" transform="translate(0.000000, 5300.000000)">
+                <g id="White-area---Top-Section">
+                    <g id="Rectangle-Copy-13" opacity="0.178548177">
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-2)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Rectangle-Copy-13" opacity="0.345610119" transform="translate(720.000000, 167.450980) scale(-1, 1) translate(-720.000000, -167.450980) ">
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-6)" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="Rectangle-2-Copy" opacity="0.233421689" transform="translate(720.000000, 239.750000) scale(-1, 1) translate(-720.000000, -239.750000) ">
+                        <use fill="url(#linearGradient-9)" xlink:href="#path-12"></use>
+                        <use fill="url(#linearGradient-10)" xlink:href="#path-12"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-12"></use>
+                    </g>
+                </g>
+                <g id="white-background-top" transform="translate(720.000000, 301.000000) scale(-1, 1) translate(-720.000000, -301.000000) ">
+                    <use fill="#293462" xlink:href="#path-14"></use>
+                    <use fill="url(#linearGradient-13)" xlink:href="#path-14"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
